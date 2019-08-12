@@ -114,3 +114,4 @@ Unit testing your own usage docs is recommended, so you can be sure that for a g
 All tests from the Python version are implemented and passing at [Travis CI](https://travis-ci.org/docopt/docopt-go). New language-agnostic tests have been added to [test_golang.docopt](test_golang.docopt).
 
 To run tests for docopt-go, use `go test`.
+Sylvain
